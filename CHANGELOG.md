@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-17)
+## Unreleased (2025-06-22)
 
 <section class="features">
 
@@ -35,6 +35,8 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`bb5b8f3`](https://github.com/stdlib-js/stdlib/commit/bb5b8f37a23d60d6ed7ed8d4af77e8e80d4fcde7) - **docs:** update `stats/base/dists/planck` examples to use Greek symbols _(by Philipp Burckhardt)_
+-   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
 -   [`7e8f02d`](https://github.com/stdlib-js/stdlib/commit/7e8f02ddf2771907ff71fc79b56e165c62c69bd6) - **docs:** update related packages sections [(#5434)](https://github.com/stdlib-js/stdlib/pull/5434) _(by stdlib-bot)_
 -   [`eecbeee`](https://github.com/stdlib-js/stdlib/commit/eecbeeec6f265ce248fd131a29e89362eacc727d) - **chore:** address commit comments [(#5283)](https://github.com/stdlib-js/stdlib/pull/5283) _(by Rishav Tarway)_
 -   [`120e678`](https://github.com/stdlib-js/stdlib/commit/120e678549e87a742a33ef2d3574c88ab0f95b26) - **feat:** add C implementation for `stats/base/dists/planck/stdev` [(#4913)](https://github.com/stdlib-js/stdlib/pull/4913) _(by Yuvi Mittal, Philipp Burckhardt)_
@@ -50,10 +52,11 @@ A total of 2 issues were closed in this release:
 
 ### Contributors
 
-A total of 5 people contributed to this release. Thank you to the following contributors:
+A total of 6 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Jaysukh Makvana
+-   Karan Anand
 -   Philipp Burckhardt
 -   Rishav Tarway
 -   Yuvi Mittal
