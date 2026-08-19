@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-27)
+## Unreleased (2026-08-19)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`83cf8cb`](https://github.com/stdlib-js/stdlib/commit/83cf8cb781c22616439e2d8c45833cb3a3c5fcd6) - **test:** migrate `stats/base/dists/planck/stdev` to ULP-based assertions [(#14395)](https://github.com/stdlib-js/stdlib/pull/14395) _(by Athan Reines)_
 -   [`8975f00`](https://github.com/stdlib-js/stdlib/commit/8975f00a25cb5ce66c932529659354ae5d8454dd) - **docs:** update descriptions [(#13219)](https://github.com/stdlib-js/stdlib/pull/13219) _(by Philipp Burckhardt)_
 -   [`9a51841`](https://github.com/stdlib-js/stdlib/commit/9a51841213eb13adbd6b8fe36d96c00aac9fbb17) - **bench:** refactor to use string interpolation in `stats/base` [(#11393)](https://github.com/stdlib-js/stdlib/pull/11393) _(by Karan Anand)_
 -   [`ee1f1a7`](https://github.com/stdlib-js/stdlib/commit/ee1f1a7b7d7de0dba506731a05698e0bb43b2d1c) - **docs:** fix wrong section order in `stats/base/dists` and `stats/strided` READMEs _(by Philipp Burckhardt)_
@@ -26,8 +27,9 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Karan Anand
 -   Philipp Burckhardt
 
